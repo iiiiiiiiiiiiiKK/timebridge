@@ -1,0 +1,43 @@
+﻿{
+  "counts": {
+    "info": 3
+  },
+  "findings": [
+    {
+      "level": "info",
+      "message": "mobile-390/compare: text under 11px",
+      "detail": [
+        "10px \"10-31\"",
+        "10px \"01\"",
+        "10px \"30\"",
+        "10px \"30\"",
+        "10px \"30\"",
+        "10px \"30\""
+      ]
+    },
+    {
+      "level": "info",
+      "message": "tablet-834/compare: text under 11px",
+      "detail": [
+        "10px \"10-31\"",
+        "10px \"01\"",
+        "10px \"30\"",
+        "10px \"30\"",
+        "10px \"30\"",
+        "10px \"30\""
+      ]
+    },
+    {
+      "level": "info",
+      "message": "desktop-1440/compare: text under 11px",
+      "detail": [
+        "10px \"10-31\"",
+        "10px \"01\"",
+        "10px \"30\"",
+        "10px \"30\"",
+        "10px \"30\"",
+        "10px \"30\""
+      ]
+    }
+  ]
+}

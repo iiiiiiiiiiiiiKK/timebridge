@@ -1,0 +1,2657 @@
+[
+  {
+    "id": "abidjan",
+    "en": "Abidjan",
+    "zh": "阿比让",
+    "countryEn": "Ivory Coast",
+    "countryZh": "科特迪瓦",
+    "zone": "Africa/Abidjan",
+    "popular": false
+  },
+  {
+    "id": "abu-dhabi",
+    "en": "Abu Dhabi",
+    "zh": "阿布扎比",
+    "countryEn": "United Arab Emirates",
+    "countryZh": "阿联酋",
+    "zone": "Asia/Dubai",
+    "popular": false
+  },
+  {
+    "id": "accra",
+    "en": "Accra",
+    "zh": "阿克拉",
+    "countryEn": "Ghana",
+    "countryZh": "加纳",
+    "zone": "Africa/Accra",
+    "popular": false
+  },
+  {
+    "id": "adak",
+    "en": "Adak",
+    "zh": "阿达克",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Adak",
+    "popular": false
+  },
+  {
+    "id": "addis-ababa",
+    "en": "Addis Ababa",
+    "zh": "亚的斯亚贝巴",
+    "countryEn": "Ethiopia",
+    "countryZh": "埃塞俄比亚",
+    "zone": "Africa/Addis_Ababa",
+    "popular": false
+  },
+  {
+    "id": "adelaide",
+    "en": "Adelaide",
+    "zh": "阿德莱德",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Adelaide",
+    "popular": false
+  },
+  {
+    "id": "algiers",
+    "en": "Algiers",
+    "zh": "阿尔及尔",
+    "countryEn": "Algeria",
+    "countryZh": "阿尔及利亚",
+    "zone": "Africa/Algiers",
+    "popular": false
+  },
+  {
+    "id": "alice-springs",
+    "en": "Alice Springs",
+    "zh": "爱丽斯泉",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Darwin",
+    "popular": false
+  },
+  {
+    "id": "almaty",
+    "en": "Almaty",
+    "zh": "阿拉木图",
+    "countryEn": "Kazakhstan",
+    "countryZh": "哈萨克斯坦",
+    "zone": "Asia/Almaty",
+    "popular": false
+  },
+  {
+    "id": "alofi",
+    "en": "Alofi",
+    "zh": "阿洛菲",
+    "countryEn": "Niue",
+    "countryZh": "纽埃",
+    "zone": "Pacific/Niue",
+    "popular": false
+  },
+  {
+    "id": "amman",
+    "en": "Amman",
+    "zh": "安曼",
+    "countryEn": "Jordan",
+    "countryZh": "约旦",
+    "zone": "Asia/Amman",
+    "popular": false
+  },
+  {
+    "id": "amsterdam",
+    "en": "Amsterdam",
+    "zh": "阿姆斯特丹",
+    "countryEn": "Netherlands",
+    "countryZh": "荷兰",
+    "zone": "Europe/Amsterdam",
+    "popular": false
+  },
+  {
+    "id": "anadyr",
+    "en": "Anadyr",
+    "zh": "阿纳德尔",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Anadyr",
+    "popular": false
+  },
+  {
+    "id": "anchorage",
+    "en": "Anchorage",
+    "zh": "安克雷奇",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Anchorage",
+    "popular": false
+  },
+  {
+    "id": "andorra-la-vella",
+    "en": "Andorra la Vella",
+    "zh": "安道尔城",
+    "countryEn": "Andorra",
+    "countryZh": "安道尔",
+    "zone": "Europe/Andorra",
+    "popular": false
+  },
+  {
+    "id": "antananarivo",
+    "en": "Antananarivo",
+    "zh": "塔那那利佛",
+    "countryEn": "Madagascar",
+    "countryZh": "马达加斯加",
+    "zone": "Indian/Antananarivo",
+    "popular": false
+  },
+  {
+    "id": "apia",
+    "en": "Apia",
+    "zh": "阿皮亚",
+    "countryEn": "Samoa",
+    "countryZh": "萨摩亚",
+    "zone": "Pacific/Apia",
+    "popular": false
+  },
+  {
+    "id": "ashgabat",
+    "en": "Ashgabat",
+    "zh": "阿什哈巴德",
+    "countryEn": "Turkmenistan",
+    "countryZh": "土库曼斯坦",
+    "zone": "Asia/Ashgabat",
+    "popular": false
+  },
+  {
+    "id": "asmara",
+    "en": "Asmara",
+    "zh": "阿斯马拉",
+    "countryEn": "Eritrea",
+    "countryZh": "厄立特里亚",
+    "zone": "Africa/Asmera",
+    "popular": false
+  },
+  {
+    "id": "astana",
+    "en": "Astana",
+    "zh": "阿斯塔纳",
+    "countryEn": "Kazakhstan",
+    "countryZh": "哈萨克斯坦",
+    "zone": "Asia/Almaty",
+    "popular": false
+  },
+  {
+    "id": "asuncion",
+    "en": "Asuncion",
+    "zh": "亚松森",
+    "countryEn": "Paraguay",
+    "countryZh": "巴拉圭",
+    "zone": "America/Asuncion",
+    "popular": false
+  },
+  {
+    "id": "athens",
+    "en": "Athens",
+    "zh": "雅典",
+    "countryEn": "Greece",
+    "countryZh": "希腊",
+    "zone": "Europe/Athens",
+    "popular": false
+  },
+  {
+    "id": "atyrau",
+    "en": "Atyrau",
+    "zh": "阿特劳",
+    "countryEn": "Kazakhstan",
+    "countryZh": "哈萨克斯坦",
+    "zone": "Asia/Atyrau",
+    "popular": false
+  },
+  {
+    "id": "auckland",
+    "en": "Auckland",
+    "zh": "奥克兰",
+    "countryEn": "New Zealand",
+    "countryZh": "新西兰",
+    "zone": "Pacific/Auckland",
+    "popular": false
+  },
+  {
+    "id": "avarua",
+    "en": "Avarua",
+    "zh": "阿瓦鲁阿",
+    "countryEn": "Cook Islands",
+    "countryZh": "库克群岛",
+    "zone": "Pacific/Rarotonga",
+    "popular": false
+  },
+  {
+    "id": "baghdad",
+    "en": "Baghdad",
+    "zh": "巴格达",
+    "countryEn": "Iraq",
+    "countryZh": "伊拉克",
+    "zone": "Asia/Baghdad",
+    "popular": false
+  },
+  {
+    "id": "baku",
+    "en": "Baku",
+    "zh": "巴库",
+    "countryEn": "Azerbaijan",
+    "countryZh": "阿塞拜疆",
+    "zone": "Asia/Baku",
+    "popular": false
+  },
+  {
+    "id": "bamako",
+    "en": "Bamako",
+    "zh": "巴马科",
+    "countryEn": "Mali",
+    "countryZh": "马里",
+    "zone": "Africa/Bamako",
+    "popular": false
+  },
+  {
+    "id": "bengaluru",
+    "en": "Bangalore",
+    "zh": "班加罗尔",
+    "countryEn": "India",
+    "countryZh": "印度",
+    "zone": "Asia/Kolkata",
+    "popular": false
+  },
+  {
+    "id": "bangkok",
+    "en": "Bangkok",
+    "zh": "曼谷",
+    "countryEn": "Thailand",
+    "countryZh": "泰国",
+    "zone": "Asia/Bangkok",
+    "popular": false
+  },
+  {
+    "id": "bangui",
+    "en": "Bangui",
+    "zh": "班吉",
+    "countryEn": "Central African Republic",
+    "countryZh": "中非共和国",
+    "zone": "Africa/Bangui",
+    "popular": false
+  },
+  {
+    "id": "banjul",
+    "en": "Banjul",
+    "zh": "班珠尔",
+    "countryEn": "Gambia",
+    "countryZh": "冈比亚",
+    "zone": "Africa/Banjul",
+    "popular": false
+  },
+  {
+    "id": "barcelona",
+    "en": "Barcelona",
+    "zh": "巴塞罗那",
+    "countryEn": "Spain",
+    "countryZh": "西班牙",
+    "zone": "Europe/Madrid",
+    "popular": false
+  },
+  {
+    "id": "beijing",
+    "en": "Beijing",
+    "zh": "北京",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Shanghai",
+    "popular": true
+  },
+  {
+    "id": "beirut",
+    "en": "Beirut",
+    "zh": "贝鲁特",
+    "countryEn": "Lebanon",
+    "countryZh": "黎巴嫩",
+    "zone": "Asia/Beirut",
+    "popular": false
+  },
+  {
+    "id": "belem",
+    "en": "Belem",
+    "zh": "贝伦",
+    "countryEn": "Brazil",
+    "countryZh": "巴西",
+    "zone": "America/Belem",
+    "popular": false
+  },
+  {
+    "id": "belgrade",
+    "en": "Belgrade",
+    "zh": "贝尔格莱德",
+    "countryEn": "Serbia",
+    "countryZh": "塞尔维亚",
+    "zone": "Europe/Belgrade",
+    "popular": false
+  },
+  {
+    "id": "berlin",
+    "en": "Berlin",
+    "zh": "柏林",
+    "countryEn": "Germany",
+    "countryZh": "德国",
+    "zone": "Europe/Berlin",
+    "popular": true
+  },
+  {
+    "id": "bishkek",
+    "en": "Bishkek",
+    "zh": "比什凯克",
+    "countryEn": "Kyrgyzstan",
+    "countryZh": "吉尔吉斯斯坦",
+    "zone": "Asia/Bishkek",
+    "popular": false
+  },
+  {
+    "id": "bissau",
+    "en": "Bissau",
+    "zh": "比绍",
+    "countryEn": "Guinea-Bissau",
+    "countryZh": "几内亚比绍",
+    "zone": "Africa/Bissau",
+    "popular": false
+  },
+  {
+    "id": "blantyre",
+    "en": "Blantyre",
+    "zh": "布兰太尔",
+    "countryEn": "Malawi",
+    "countryZh": "马拉维",
+    "zone": "Africa/Blantyre",
+    "popular": false
+  },
+  {
+    "id": "bogota",
+    "en": "Bogota",
+    "zh": "波哥大",
+    "countryEn": "Colombia",
+    "countryZh": "哥伦比亚",
+    "zone": "America/Bogota",
+    "popular": false
+  },
+  {
+    "id": "bougainville",
+    "en": "Bougainville",
+    "zh": "布干维尔",
+    "countryEn": "Papua New Guinea",
+    "countryZh": "巴布亚新几内亚",
+    "zone": "Pacific/Bougainville",
+    "popular": false
+  },
+  {
+    "id": "brasilia",
+    "en": "Brasilia",
+    "zh": "巴西利亚",
+    "countryEn": "Brazil",
+    "countryZh": "巴西",
+    "zone": "America/Sao_Paulo",
+    "popular": false
+  },
+  {
+    "id": "bratislava",
+    "en": "Bratislava",
+    "zh": "布拉迪斯拉发",
+    "countryEn": "Slovakia",
+    "countryZh": "斯洛伐克",
+    "zone": "Europe/Bratislava",
+    "popular": false
+  },
+  {
+    "id": "brazzaville",
+    "en": "Brazzaville",
+    "zh": "布拉柴维尔",
+    "countryEn": "Republic of the Congo",
+    "countryZh": "刚果共和国",
+    "zone": "Africa/Brazzaville",
+    "popular": false
+  },
+  {
+    "id": "brisbane",
+    "en": "Brisbane",
+    "zh": "布里斯班",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Brisbane",
+    "popular": false
+  },
+  {
+    "id": "brussels",
+    "en": "Brussels",
+    "zh": "布鲁塞尔",
+    "countryEn": "Belgium",
+    "countryZh": "比利时",
+    "zone": "Europe/Brussels",
+    "popular": false
+  },
+  {
+    "id": "bucharest",
+    "en": "Bucharest",
+    "zh": "布加勒斯特",
+    "countryEn": "Romania",
+    "countryZh": "罗马尼亚",
+    "zone": "Europe/Bucharest",
+    "popular": false
+  },
+  {
+    "id": "budapest",
+    "en": "Budapest",
+    "zh": "布达佩斯",
+    "countryEn": "Hungary",
+    "countryZh": "匈牙利",
+    "zone": "Europe/Budapest",
+    "popular": false
+  },
+  {
+    "id": "buenos-aires",
+    "en": "Buenos Aires",
+    "zh": "布宜诺斯艾利斯",
+    "countryEn": "Argentina",
+    "countryZh": "阿根廷",
+    "zone": "America/Buenos_Aires",
+    "popular": false
+  },
+  {
+    "id": "bujumbura",
+    "en": "Bujumbura",
+    "zh": "布琼布拉",
+    "countryEn": "Burundi",
+    "countryZh": "布隆迪",
+    "zone": "Africa/Bujumbura",
+    "popular": false
+  },
+  {
+    "id": "burnt-pine",
+    "en": "Burnt Pine",
+    "zh": "伯恩特派恩",
+    "countryEn": "Norfolk Island",
+    "countryZh": "诺福克岛",
+    "zone": "Pacific/Norfolk",
+    "popular": false
+  },
+  {
+    "id": "cairo",
+    "en": "Cairo",
+    "zh": "开罗",
+    "countryEn": "Egypt",
+    "countryZh": "埃及",
+    "zone": "Africa/Cairo",
+    "popular": false
+  },
+  {
+    "id": "calgary",
+    "en": "Calgary",
+    "zh": "卡尔加里",
+    "countryEn": "Canada",
+    "countryZh": "加拿大",
+    "zone": "America/Edmonton",
+    "popular": false
+  },
+  {
+    "id": "canberra",
+    "en": "Canberra",
+    "zh": "堪培拉",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Sydney",
+    "popular": false
+  },
+  {
+    "id": "cancun",
+    "en": "Cancun",
+    "zh": "坎昆",
+    "countryEn": "Mexico",
+    "countryZh": "墨西哥",
+    "zone": "America/Cancun",
+    "popular": false
+  },
+  {
+    "id": "caracas",
+    "en": "Caracas",
+    "zh": "加拉加斯",
+    "countryEn": "Venezuela",
+    "countryZh": "委内瑞拉",
+    "zone": "America/Caracas",
+    "popular": false
+  },
+  {
+    "id": "casablanca",
+    "en": "Casablanca",
+    "zh": "卡萨布兰卡",
+    "countryEn": "Morocco",
+    "countryZh": "摩洛哥",
+    "zone": "Africa/Casablanca",
+    "popular": false
+  },
+  {
+    "id": "cayenne",
+    "en": "Cayenne",
+    "zh": "卡宴",
+    "countryEn": "French Guiana",
+    "countryZh": "法属圭亚那",
+    "zone": "America/Cayenne",
+    "popular": false
+  },
+  {
+    "id": "ceuta",
+    "en": "Ceuta",
+    "zh": "休达",
+    "countryEn": "Spain",
+    "countryZh": "西班牙",
+    "zone": "Africa/Ceuta",
+    "popular": false
+  },
+  {
+    "id": "chatham-islands",
+    "en": "Chatham Islands",
+    "zh": "查塔姆群岛",
+    "countryEn": "New Zealand",
+    "countryZh": "新西兰",
+    "zone": "Pacific/Chatham",
+    "popular": false
+  },
+  {
+    "id": "chengdu",
+    "en": "Chengdu",
+    "zh": "成都",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Shanghai",
+    "popular": false
+  },
+  {
+    "id": "chicago",
+    "en": "Chicago",
+    "zh": "芝加哥",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Chicago",
+    "popular": false
+  },
+  {
+    "id": "chihuahua",
+    "en": "Chihuahua",
+    "zh": "奇瓦瓦",
+    "countryEn": "Mexico",
+    "countryZh": "墨西哥",
+    "zone": "America/Chihuahua",
+    "popular": false
+  },
+  {
+    "id": "chisinau",
+    "en": "Chisinau",
+    "zh": "基希讷乌",
+    "countryEn": "Moldova",
+    "countryZh": "摩尔多瓦",
+    "zone": "Europe/Chisinau",
+    "popular": false
+  },
+  {
+    "id": "chongqing",
+    "en": "Chongqing",
+    "zh": "重庆",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Shanghai",
+    "popular": false
+  },
+  {
+    "id": "christchurch",
+    "en": "Christchurch",
+    "zh": "基督城",
+    "countryEn": "New Zealand",
+    "countryZh": "新西兰",
+    "zone": "Pacific/Auckland",
+    "popular": false
+  },
+  {
+    "id": "colombo",
+    "en": "Colombo",
+    "zh": "科伦坡",
+    "countryEn": "Sri Lanka",
+    "countryZh": "斯里兰卡",
+    "zone": "Asia/Colombo",
+    "popular": false
+  },
+  {
+    "id": "conakry",
+    "en": "Conakry",
+    "zh": "科纳克里",
+    "countryEn": "Guinea",
+    "countryZh": "几内亚",
+    "zone": "Africa/Conakry",
+    "popular": false
+  },
+  {
+    "id": "copenhagen",
+    "en": "Copenhagen",
+    "zh": "哥本哈根",
+    "countryEn": "Denmark",
+    "countryZh": "丹麦",
+    "zone": "Europe/Copenhagen",
+    "popular": false
+  },
+  {
+    "id": "cordoba",
+    "en": "Cordoba",
+    "zh": "科尔多瓦",
+    "countryEn": "Argentina",
+    "countryZh": "阿根廷",
+    "zone": "America/Cordoba",
+    "popular": false
+  },
+  {
+    "id": "dakar",
+    "en": "Dakar",
+    "zh": "达喀尔",
+    "countryEn": "Senegal",
+    "countryZh": "塞内加尔",
+    "zone": "Africa/Dakar",
+    "popular": false
+  },
+  {
+    "id": "damascus",
+    "en": "Damascus",
+    "zh": "大马士革",
+    "countryEn": "Syria",
+    "countryZh": "叙利亚",
+    "zone": "Asia/Damascus",
+    "popular": false
+  },
+  {
+    "id": "dar-es-salaam",
+    "en": "Dar es Salaam",
+    "zh": "达累斯萨拉姆",
+    "countryEn": "Tanzania",
+    "countryZh": "坦桑尼亚",
+    "zone": "Africa/Dar_es_Salaam",
+    "popular": false
+  },
+  {
+    "id": "darwin",
+    "en": "Darwin",
+    "zh": "达尔文",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Darwin",
+    "popular": false
+  },
+  {
+    "id": "denpasar",
+    "en": "Denpasar",
+    "zh": "登巴萨",
+    "countryEn": "Indonesia",
+    "countryZh": "印度尼西亚",
+    "zone": "Asia/Makassar",
+    "popular": false
+  },
+  {
+    "id": "denver",
+    "en": "Denver",
+    "zh": "丹佛",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Denver",
+    "popular": false
+  },
+  {
+    "id": "detroit",
+    "en": "Detroit",
+    "zh": "底特律",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Detroit",
+    "popular": false
+  },
+  {
+    "id": "dhaka",
+    "en": "Dhaka",
+    "zh": "达卡",
+    "countryEn": "Bangladesh",
+    "countryZh": "孟加拉国",
+    "zone": "Asia/Dhaka",
+    "popular": false
+  },
+  {
+    "id": "djibouti",
+    "en": "Djibouti",
+    "zh": "吉布提",
+    "countryEn": "Djibouti",
+    "countryZh": "吉布提",
+    "zone": "Africa/Djibouti",
+    "popular": false
+  },
+  {
+    "id": "doha",
+    "en": "Doha",
+    "zh": "多哈",
+    "countryEn": "Qatar",
+    "countryZh": "卡塔尔",
+    "zone": "Asia/Qatar",
+    "popular": false
+  },
+  {
+    "id": "dubai",
+    "en": "Dubai",
+    "zh": "迪拜",
+    "countryEn": "United Arab Emirates",
+    "countryZh": "阿联酋",
+    "zone": "Asia/Dubai",
+    "popular": true
+  },
+  {
+    "id": "dublin",
+    "en": "Dublin",
+    "zh": "都柏林",
+    "countryEn": "Ireland",
+    "countryZh": "爱尔兰",
+    "zone": "Europe/Dublin",
+    "popular": false
+  },
+  {
+    "id": "dushanbe",
+    "en": "Dushanbe",
+    "zh": "杜尚别",
+    "countryEn": "Tajikistan",
+    "countryZh": "塔吉克斯坦",
+    "zone": "Asia/Dushanbe",
+    "popular": false
+  },
+  {
+    "id": "easter-island",
+    "en": "Easter Island",
+    "zh": "复活节岛",
+    "countryEn": "Chile",
+    "countryZh": "智利",
+    "zone": "Pacific/Easter",
+    "popular": false
+  },
+  {
+    "id": "edinburgh",
+    "en": "Edinburgh",
+    "zh": "爱丁堡",
+    "countryEn": "United Kingdom",
+    "countryZh": "英国",
+    "zone": "Europe/London",
+    "popular": false
+  },
+  {
+    "id": "edmonton",
+    "en": "Edmonton",
+    "zh": "埃德蒙顿",
+    "countryEn": "Canada",
+    "countryZh": "加拿大",
+    "zone": "America/Edmonton",
+    "popular": false
+  },
+  {
+    "id": "el-aaiun",
+    "en": "El Aaiun",
+    "zh": "阿尤恩",
+    "countryEn": "Western Sahara",
+    "countryZh": "西撒哈拉",
+    "zone": "Africa/El_Aaiun",
+    "popular": false
+  },
+  {
+    "id": "eucla",
+    "en": "Eucla",
+    "zh": "尤克拉",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Eucla",
+    "popular": false
+  },
+  {
+    "id": "fortaleza",
+    "en": "Fortaleza",
+    "zh": "福塔莱萨",
+    "countryEn": "Brazil",
+    "countryZh": "巴西",
+    "zone": "America/Fortaleza",
+    "popular": false
+  },
+  {
+    "id": "freetown",
+    "en": "Freetown",
+    "zh": "弗里敦",
+    "countryEn": "Sierra Leone",
+    "countryZh": "塞拉利昂",
+    "zone": "Africa/Freetown",
+    "popular": false
+  },
+  {
+    "id": "funafuti",
+    "en": "Funafuti",
+    "zh": "富纳富提",
+    "countryEn": "Tuvalu",
+    "countryZh": "图瓦卢",
+    "zone": "Pacific/Funafuti",
+    "popular": false
+  },
+  {
+    "id": "funchal",
+    "en": "Funchal",
+    "zh": "丰沙尔",
+    "countryEn": "Portugal",
+    "countryZh": "葡萄牙",
+    "zone": "Atlantic/Madeira",
+    "popular": false
+  },
+  {
+    "id": "gaborone",
+    "en": "Gaborone",
+    "zh": "哈博罗内",
+    "countryEn": "Botswana",
+    "countryZh": "博茨瓦纳",
+    "zone": "Africa/Gaborone",
+    "popular": false
+  },
+  {
+    "id": "gaza",
+    "en": "Gaza",
+    "zh": "加沙",
+    "countryEn": "Palestine",
+    "countryZh": "巴勒斯坦",
+    "zone": "Asia/Gaza",
+    "popular": false
+  },
+  {
+    "id": "georgetown",
+    "en": "Georgetown",
+    "zh": "乔治敦",
+    "countryEn": "Guyana",
+    "countryZh": "圭亚那",
+    "zone": "America/Guyana",
+    "popular": false
+  },
+  {
+    "id": "gibraltar",
+    "en": "Gibraltar",
+    "zh": "直布罗陀",
+    "countryEn": "Gibraltar",
+    "countryZh": "直布罗陀",
+    "zone": "Europe/Gibraltar",
+    "popular": false
+  },
+  {
+    "id": "guangzhou",
+    "en": "Guangzhou",
+    "zh": "广州",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Shanghai",
+    "popular": false
+  },
+  {
+    "id": "guatemala-city",
+    "en": "Guatemala City",
+    "zh": "危地马拉城",
+    "countryEn": "Guatemala",
+    "countryZh": "危地马拉",
+    "zone": "America/Guatemala",
+    "popular": false
+  },
+  {
+    "id": "hagatna",
+    "en": "Hagatna",
+    "zh": "阿加尼亚",
+    "countryEn": "Guam",
+    "countryZh": "关岛",
+    "zone": "Pacific/Guam",
+    "popular": false
+  },
+  {
+    "id": "halifax",
+    "en": "Halifax",
+    "zh": "哈利法克斯",
+    "countryEn": "Canada",
+    "countryZh": "加拿大",
+    "zone": "America/Halifax",
+    "popular": false
+  },
+  {
+    "id": "hamilton",
+    "en": "Hamilton",
+    "zh": "汉密尔顿",
+    "countryEn": "Bermuda",
+    "countryZh": "百慕大",
+    "zone": "Atlantic/Bermuda",
+    "popular": false
+  },
+  {
+    "id": "hanoi",
+    "en": "Hanoi",
+    "zh": "河内",
+    "countryEn": "Vietnam",
+    "countryZh": "越南",
+    "zone": "Asia/Ho_Chi_Minh",
+    "popular": false
+  },
+  {
+    "id": "harare",
+    "en": "Harare",
+    "zh": "哈拉雷",
+    "countryEn": "Zimbabwe",
+    "countryZh": "津巴布韦",
+    "zone": "Africa/Harare",
+    "popular": false
+  },
+  {
+    "id": "havana",
+    "en": "Havana",
+    "zh": "哈瓦那",
+    "countryEn": "Cuba",
+    "countryZh": "古巴",
+    "zone": "America/Havana",
+    "popular": false
+  },
+  {
+    "id": "hebron",
+    "en": "Hebron",
+    "zh": "希伯伦",
+    "countryEn": "Palestine",
+    "countryZh": "巴勒斯坦",
+    "zone": "Asia/Hebron",
+    "popular": false
+  },
+  {
+    "id": "helsinki",
+    "en": "Helsinki",
+    "zh": "赫尔辛基",
+    "countryEn": "Finland",
+    "countryZh": "芬兰",
+    "zone": "Europe/Helsinki",
+    "popular": false
+  },
+  {
+    "id": "ho-chi-minh-city",
+    "en": "Ho Chi Minh City",
+    "zh": "胡志明市",
+    "countryEn": "Vietnam",
+    "countryZh": "越南",
+    "zone": "Asia/Ho_Chi_Minh",
+    "popular": false
+  },
+  {
+    "id": "hobart",
+    "en": "Hobart",
+    "zh": "霍巴特",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Hobart",
+    "popular": false
+  },
+  {
+    "id": "hong-kong",
+    "en": "Hong Kong",
+    "zh": "香港",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Hong_Kong",
+    "popular": true
+  },
+  {
+    "id": "honiara",
+    "en": "Honiara",
+    "zh": "霍尼亚拉",
+    "countryEn": "Solomon Islands",
+    "countryZh": "所罗门群岛",
+    "zone": "Pacific/Guadalcanal",
+    "popular": false
+  },
+  {
+    "id": "honolulu",
+    "en": "Honolulu",
+    "zh": "檀香山",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "Pacific/Honolulu",
+    "popular": false
+  },
+  {
+    "id": "hovd",
+    "en": "Hovd",
+    "zh": "科布多",
+    "countryEn": "Mongolia",
+    "countryZh": "蒙古",
+    "zone": "Asia/Hovd",
+    "popular": false
+  },
+  {
+    "id": "irkutsk",
+    "en": "Irkutsk",
+    "zh": "伊尔库茨克",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Irkutsk",
+    "popular": false
+  },
+  {
+    "id": "islamabad",
+    "en": "Islamabad",
+    "zh": "伊斯兰堡",
+    "countryEn": "Pakistan",
+    "countryZh": "巴基斯坦",
+    "zone": "Asia/Karachi",
+    "popular": false
+  },
+  {
+    "id": "istanbul",
+    "en": "Istanbul",
+    "zh": "伊斯坦布尔",
+    "countryEn": "Turkey",
+    "countryZh": "土耳其",
+    "zone": "Europe/Istanbul",
+    "popular": false
+  },
+  {
+    "id": "jakarta",
+    "en": "Jakarta",
+    "zh": "雅加达",
+    "countryEn": "Indonesia",
+    "countryZh": "印度尼西亚",
+    "zone": "Asia/Jakarta",
+    "popular": false
+  },
+  {
+    "id": "jayapura",
+    "en": "Jayapura",
+    "zh": "查亚普拉",
+    "countryEn": "Indonesia",
+    "countryZh": "印度尼西亚",
+    "zone": "Asia/Jayapura",
+    "popular": false
+  },
+  {
+    "id": "jerusalem",
+    "en": "Jerusalem",
+    "zh": "耶路撒冷",
+    "countryEn": "Israel",
+    "countryZh": "以色列",
+    "zone": "Asia/Jerusalem",
+    "popular": false
+  },
+  {
+    "id": "johannesburg",
+    "en": "Johannesburg",
+    "zh": "约翰内斯堡",
+    "countryEn": "South Africa",
+    "countryZh": "南非",
+    "zone": "Africa/Johannesburg",
+    "popular": false
+  },
+  {
+    "id": "juba",
+    "en": "Juba",
+    "zh": "朱巴",
+    "countryEn": "South Sudan",
+    "countryZh": "南苏丹",
+    "zone": "Africa/Juba",
+    "popular": false
+  },
+  {
+    "id": "juneau",
+    "en": "Juneau",
+    "zh": "朱诺",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Juneau",
+    "popular": false
+  },
+  {
+    "id": "kabul",
+    "en": "Kabul",
+    "zh": "喀布尔",
+    "countryEn": "Afghanistan",
+    "countryZh": "阿富汗",
+    "zone": "Asia/Kabul",
+    "popular": false
+  },
+  {
+    "id": "kaliningrad",
+    "en": "Kaliningrad",
+    "zh": "加里宁格勒",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Europe/Kaliningrad",
+    "popular": false
+  },
+  {
+    "id": "kampala",
+    "en": "Kampala",
+    "zh": "坎帕拉",
+    "countryEn": "Uganda",
+    "countryZh": "乌干达",
+    "zone": "Africa/Kampala",
+    "popular": false
+  },
+  {
+    "id": "karachi",
+    "en": "Karachi",
+    "zh": "卡拉奇",
+    "countryEn": "Pakistan",
+    "countryZh": "巴基斯坦",
+    "zone": "Asia/Karachi",
+    "popular": false
+  },
+  {
+    "id": "kathmandu",
+    "en": "Kathmandu",
+    "zh": "加德满都",
+    "countryEn": "Nepal",
+    "countryZh": "尼泊尔",
+    "zone": "Asia/Kathmandu",
+    "popular": false
+  },
+  {
+    "id": "khartoum",
+    "en": "Khartoum",
+    "zh": "喀土穆",
+    "countryEn": "Sudan",
+    "countryZh": "苏丹",
+    "zone": "Africa/Khartoum",
+    "popular": false
+  },
+  {
+    "id": "kigali",
+    "en": "Kigali",
+    "zh": "基加利",
+    "countryEn": "Rwanda",
+    "countryZh": "卢旺达",
+    "zone": "Africa/Kigali",
+    "popular": false
+  },
+  {
+    "id": "kingston",
+    "en": "Kingston",
+    "zh": "金斯敦",
+    "countryEn": "Jamaica",
+    "countryZh": "牙买加",
+    "zone": "America/Jamaica",
+    "popular": false
+  },
+  {
+    "id": "kinshasa",
+    "en": "Kinshasa",
+    "zh": "金沙萨",
+    "countryEn": "DR Congo",
+    "countryZh": "刚果民主共和国",
+    "zone": "Africa/Kinshasa",
+    "popular": false
+  },
+  {
+    "id": "kiritimati",
+    "en": "Kiritimati",
+    "zh": "圣诞岛",
+    "countryEn": "Kiribati",
+    "countryZh": "基里巴斯",
+    "zone": "Pacific/Kiritimati",
+    "popular": false
+  },
+  {
+    "id": "kolkata",
+    "en": "Kolkata",
+    "zh": "加尔各答",
+    "countryEn": "India",
+    "countryZh": "印度",
+    "zone": "Asia/Kolkata",
+    "popular": false
+  },
+  {
+    "id": "koror",
+    "en": "Koror",
+    "zh": "科罗尔",
+    "countryEn": "Palau",
+    "countryZh": "帕劳",
+    "zone": "Pacific/Palau",
+    "popular": false
+  },
+  {
+    "id": "krasnoyarsk",
+    "en": "Krasnoyarsk",
+    "zh": "克拉斯诺亚尔斯克",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Krasnoyarsk",
+    "popular": false
+  },
+  {
+    "id": "kuala-lumpur",
+    "en": "Kuala Lumpur",
+    "zh": "吉隆坡",
+    "countryEn": "Malaysia",
+    "countryZh": "马来西亚",
+    "zone": "Asia/Kuala_Lumpur",
+    "popular": false
+  },
+  {
+    "id": "kuching",
+    "en": "Kuching",
+    "zh": "古晋",
+    "countryEn": "Malaysia",
+    "countryZh": "马来西亚",
+    "zone": "Asia/Kuching",
+    "popular": false
+  },
+  {
+    "id": "kuwait-city",
+    "en": "Kuwait City",
+    "zh": "科威特城",
+    "countryEn": "Kuwait",
+    "countryZh": "科威特",
+    "zone": "Asia/Kuwait",
+    "popular": false
+  },
+  {
+    "id": "kyiv",
+    "en": "Kyiv",
+    "zh": "基辅",
+    "countryEn": "Ukraine",
+    "countryZh": "乌克兰",
+    "zone": "Europe/Kyiv",
+    "popular": false
+  },
+  {
+    "id": "la-paz",
+    "en": "La Paz",
+    "zh": "拉巴斯",
+    "countryEn": "Bolivia",
+    "countryZh": "玻利维亚",
+    "zone": "America/La_Paz",
+    "popular": false
+  },
+  {
+    "id": "lagos",
+    "en": "Lagos",
+    "zh": "拉各斯",
+    "countryEn": "Nigeria",
+    "countryZh": "尼日利亚",
+    "zone": "Africa/Lagos",
+    "popular": false
+  },
+  {
+    "id": "las-palmas",
+    "en": "Las Palmas",
+    "zh": "拉斯帕尔马斯",
+    "countryEn": "Spain",
+    "countryZh": "西班牙",
+    "zone": "Atlantic/Canary",
+    "popular": false
+  },
+  {
+    "id": "libreville",
+    "en": "Libreville",
+    "zh": "利伯维尔",
+    "countryEn": "Gabon",
+    "countryZh": "加蓬",
+    "zone": "Africa/Libreville",
+    "popular": false
+  },
+  {
+    "id": "lima",
+    "en": "Lima",
+    "zh": "利马",
+    "countryEn": "Peru",
+    "countryZh": "秘鲁",
+    "zone": "America/Lima",
+    "popular": false
+  },
+  {
+    "id": "lisbon",
+    "en": "Lisbon",
+    "zh": "里斯本",
+    "countryEn": "Portugal",
+    "countryZh": "葡萄牙",
+    "zone": "Europe/Lisbon",
+    "popular": false
+  },
+  {
+    "id": "ljubljana",
+    "en": "Ljubljana",
+    "zh": "卢布尔雅那",
+    "countryEn": "Slovenia",
+    "countryZh": "斯洛文尼亚",
+    "zone": "Europe/Ljubljana",
+    "popular": false
+  },
+  {
+    "id": "lome",
+    "en": "Lome",
+    "zh": "洛美",
+    "countryEn": "Togo",
+    "countryZh": "多哥",
+    "zone": "Africa/Lome",
+    "popular": false
+  },
+  {
+    "id": "london",
+    "en": "London",
+    "zh": "伦敦",
+    "countryEn": "United Kingdom",
+    "countryZh": "英国",
+    "zone": "Europe/London",
+    "popular": true
+  },
+  {
+    "id": "longyearbyen",
+    "en": "Longyearbyen",
+    "zh": "朗伊尔城",
+    "countryEn": "Svalbard",
+    "countryZh": "斯瓦尔巴群岛",
+    "zone": "Arctic/Longyearbyen",
+    "popular": false
+  },
+  {
+    "id": "lord-howe",
+    "en": "Lord Howe Island",
+    "zh": "豪勋爵岛",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Lord_Howe",
+    "popular": false
+  },
+  {
+    "id": "los-angeles",
+    "en": "Los Angeles",
+    "zh": "洛杉矶",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Los_Angeles",
+    "popular": true
+  },
+  {
+    "id": "luanda",
+    "en": "Luanda",
+    "zh": "罗安达",
+    "countryEn": "Angola",
+    "countryZh": "安哥拉",
+    "zone": "Africa/Luanda",
+    "popular": false
+  },
+  {
+    "id": "lubumbashi",
+    "en": "Lubumbashi",
+    "zh": "卢本巴希",
+    "countryEn": "DR Congo",
+    "countryZh": "刚果民主共和国",
+    "zone": "Africa/Lubumbashi",
+    "popular": false
+  },
+  {
+    "id": "lusaka",
+    "en": "Lusaka",
+    "zh": "卢萨卡",
+    "countryEn": "Zambia",
+    "countryZh": "赞比亚",
+    "zone": "Africa/Lusaka",
+    "popular": false
+  },
+  {
+    "id": "luxembourg",
+    "en": "Luxembourg",
+    "zh": "卢森堡",
+    "countryEn": "Luxembourg",
+    "countryZh": "卢森堡",
+    "zone": "Europe/Luxembourg",
+    "popular": false
+  },
+  {
+    "id": "macau",
+    "en": "Macau",
+    "zh": "澳门",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Macau",
+    "popular": false
+  },
+  {
+    "id": "madrid",
+    "en": "Madrid",
+    "zh": "马德里",
+    "countryEn": "Spain",
+    "countryZh": "西班牙",
+    "zone": "Europe/Madrid",
+    "popular": false
+  },
+  {
+    "id": "magadan",
+    "en": "Magadan",
+    "zh": "马加丹",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Magadan",
+    "popular": false
+  },
+  {
+    "id": "majuro",
+    "en": "Majuro",
+    "zh": "马朱罗",
+    "countryEn": "Marshall Islands",
+    "countryZh": "马绍尔群岛",
+    "zone": "Pacific/Majuro",
+    "popular": false
+  },
+  {
+    "id": "makassar",
+    "en": "Makassar",
+    "zh": "望加锡",
+    "countryEn": "Indonesia",
+    "countryZh": "印度尼西亚",
+    "zone": "Asia/Makassar",
+    "popular": false
+  },
+  {
+    "id": "malabo",
+    "en": "Malabo",
+    "zh": "马拉博",
+    "countryEn": "Equatorial Guinea",
+    "countryZh": "赤道几内亚",
+    "zone": "Africa/Malabo",
+    "popular": false
+  },
+  {
+    "id": "managua",
+    "en": "Managua",
+    "zh": "马那瓜",
+    "countryEn": "Nicaragua",
+    "countryZh": "尼加拉瓜",
+    "zone": "America/Managua",
+    "popular": false
+  },
+  {
+    "id": "manama",
+    "en": "Manama",
+    "zh": "麦纳麦",
+    "countryEn": "Bahrain",
+    "countryZh": "巴林",
+    "zone": "Asia/Bahrain",
+    "popular": false
+  },
+  {
+    "id": "manaus",
+    "en": "Manaus",
+    "zh": "马瑙斯",
+    "countryEn": "Brazil",
+    "countryZh": "巴西",
+    "zone": "America/Manaus",
+    "popular": false
+  },
+  {
+    "id": "manila",
+    "en": "Manila",
+    "zh": "马尼拉",
+    "countryEn": "Philippines",
+    "countryZh": "菲律宾",
+    "zone": "Asia/Manila",
+    "popular": false
+  },
+  {
+    "id": "maputo",
+    "en": "Maputo",
+    "zh": "马普托",
+    "countryEn": "Mozambique",
+    "countryZh": "莫桑比克",
+    "zone": "Africa/Maputo",
+    "popular": false
+  },
+  {
+    "id": "marquesas-islands",
+    "en": "Marquesas Islands",
+    "zh": "马克萨斯群岛",
+    "countryEn": "French Polynesia",
+    "countryZh": "法属波利尼西亚",
+    "zone": "Pacific/Marquesas",
+    "popular": false
+  },
+  {
+    "id": "maseru",
+    "en": "Maseru",
+    "zh": "马塞卢",
+    "countryEn": "Lesotho",
+    "countryZh": "莱索托",
+    "zone": "Africa/Maseru",
+    "popular": false
+  },
+  {
+    "id": "mazatlan",
+    "en": "Mazatlan",
+    "zh": "马萨特兰",
+    "countryEn": "Mexico",
+    "countryZh": "墨西哥",
+    "zone": "America/Mazatlan",
+    "popular": false
+  },
+  {
+    "id": "mbabane",
+    "en": "Mbabane",
+    "zh": "姆巴巴内",
+    "countryEn": "Eswatini",
+    "countryZh": "埃斯瓦蒂尼",
+    "zone": "Africa/Mbabane",
+    "popular": false
+  },
+  {
+    "id": "mcmurdo",
+    "en": "McMurdo",
+    "zh": "麦克默多站",
+    "countryEn": "Antarctica",
+    "countryZh": "南极洲",
+    "zone": "Antarctica/McMurdo",
+    "popular": false
+  },
+  {
+    "id": "melbourne",
+    "en": "Melbourne",
+    "zh": "墨尔本",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Melbourne",
+    "popular": false
+  },
+  {
+    "id": "mendoza",
+    "en": "Mendoza",
+    "zh": "门多萨",
+    "countryEn": "Argentina",
+    "countryZh": "阿根廷",
+    "zone": "America/Mendoza",
+    "popular": false
+  },
+  {
+    "id": "mexico-city",
+    "en": "Mexico City",
+    "zh": "墨西哥城",
+    "countryEn": "Mexico",
+    "countryZh": "墨西哥",
+    "zone": "America/Mexico_City",
+    "popular": false
+  },
+  {
+    "id": "miami",
+    "en": "Miami",
+    "zh": "迈阿密",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/New_York",
+    "popular": false
+  },
+  {
+    "id": "minsk",
+    "en": "Minsk",
+    "zh": "明斯克",
+    "countryEn": "Belarus",
+    "countryZh": "白俄罗斯",
+    "zone": "Europe/Minsk",
+    "popular": false
+  },
+  {
+    "id": "mogadishu",
+    "en": "Mogadishu",
+    "zh": "摩加迪沙",
+    "countryEn": "Somalia",
+    "countryZh": "索马里",
+    "zone": "Africa/Mogadishu",
+    "popular": false
+  },
+  {
+    "id": "monaco",
+    "en": "Monaco",
+    "zh": "摩纳哥",
+    "countryEn": "Monaco",
+    "countryZh": "摩纳哥",
+    "zone": "Europe/Monaco",
+    "popular": false
+  },
+  {
+    "id": "monrovia",
+    "en": "Monrovia",
+    "zh": "蒙罗维亚",
+    "countryEn": "Liberia",
+    "countryZh": "利比里亚",
+    "zone": "Africa/Monrovia",
+    "popular": false
+  },
+  {
+    "id": "monterrey",
+    "en": "Monterrey",
+    "zh": "蒙特雷",
+    "countryEn": "Mexico",
+    "countryZh": "墨西哥",
+    "zone": "America/Monterrey",
+    "popular": false
+  },
+  {
+    "id": "montevideo",
+    "en": "Montevideo",
+    "zh": "蒙得维的亚",
+    "countryEn": "Uruguay",
+    "countryZh": "乌拉圭",
+    "zone": "America/Montevideo",
+    "popular": false
+  },
+  {
+    "id": "montreal",
+    "en": "Montreal",
+    "zh": "蒙特利尔",
+    "countryEn": "Canada",
+    "countryZh": "加拿大",
+    "zone": "America/Toronto",
+    "popular": false
+  },
+  {
+    "id": "moroni",
+    "en": "Moroni",
+    "zh": "莫罗尼",
+    "countryEn": "Comoros",
+    "countryZh": "科摩罗",
+    "zone": "Indian/Comoro",
+    "popular": false
+  },
+  {
+    "id": "moscow",
+    "en": "Moscow",
+    "zh": "莫斯科",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Europe/Moscow",
+    "popular": false
+  },
+  {
+    "id": "mumbai",
+    "en": "Mumbai",
+    "zh": "孟买",
+    "countryEn": "India",
+    "countryZh": "印度",
+    "zone": "Asia/Kolkata",
+    "popular": false
+  },
+  {
+    "id": "muscat",
+    "en": "Muscat",
+    "zh": "马斯喀特",
+    "countryEn": "Oman",
+    "countryZh": "阿曼",
+    "zone": "Asia/Muscat",
+    "popular": false
+  },
+  {
+    "id": "nairobi",
+    "en": "Nairobi",
+    "zh": "内罗毕",
+    "countryEn": "Kenya",
+    "countryZh": "肯尼亚",
+    "zone": "Africa/Nairobi",
+    "popular": false
+  },
+  {
+    "id": "nassau",
+    "en": "Nassau",
+    "zh": "拿骚",
+    "countryEn": "Bahamas",
+    "countryZh": "巴哈马",
+    "zone": "America/Nassau",
+    "popular": false
+  },
+  {
+    "id": "ndjamena",
+    "en": "Ndjamena",
+    "zh": "恩贾梅纳",
+    "countryEn": "Chad",
+    "countryZh": "乍得",
+    "zone": "Africa/Ndjamena",
+    "popular": false
+  },
+  {
+    "id": "delhi",
+    "en": "New Delhi",
+    "zh": "新德里",
+    "countryEn": "India",
+    "countryZh": "印度",
+    "zone": "Asia/Kolkata",
+    "popular": false
+  },
+  {
+    "id": "new-york",
+    "en": "New York",
+    "zh": "纽约",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/New_York",
+    "popular": true
+  },
+  {
+    "id": "niamey",
+    "en": "Niamey",
+    "zh": "尼亚美",
+    "countryEn": "Niger",
+    "countryZh": "尼日尔",
+    "zone": "Africa/Niamey",
+    "popular": false
+  },
+  {
+    "id": "nicosia",
+    "en": "Nicosia",
+    "zh": "尼科西亚",
+    "countryEn": "Cyprus",
+    "countryZh": "塞浦路斯",
+    "zone": "Asia/Nicosia",
+    "popular": false
+  },
+  {
+    "id": "nouakchott",
+    "en": "Nouakchott",
+    "zh": "努瓦克肖特",
+    "countryEn": "Mauritania",
+    "countryZh": "毛里塔尼亚",
+    "zone": "Africa/Nouakchott",
+    "popular": false
+  },
+  {
+    "id": "noumea",
+    "en": "Noumea",
+    "zh": "努美阿",
+    "countryEn": "New Caledonia",
+    "countryZh": "新喀里多尼亚",
+    "zone": "Pacific/Noumea",
+    "popular": false
+  },
+  {
+    "id": "novosibirsk",
+    "en": "Novosibirsk",
+    "zh": "新西伯利亚",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Novosibirsk",
+    "popular": false
+  },
+  {
+    "id": "nukualofa",
+    "en": "Nuku'alofa",
+    "zh": "努库阿洛法",
+    "countryEn": "Tonga",
+    "countryZh": "汤加",
+    "zone": "Pacific/Tongatapu",
+    "popular": false
+  },
+  {
+    "id": "nuuk",
+    "en": "Nuuk",
+    "zh": "努克",
+    "countryEn": "Greenland",
+    "countryZh": "格陵兰",
+    "zone": "America/Nuuk",
+    "popular": false
+  },
+  {
+    "id": "osaka",
+    "en": "Osaka",
+    "zh": "大阪",
+    "countryEn": "Japan",
+    "countryZh": "日本",
+    "zone": "Asia/Tokyo",
+    "popular": false
+  },
+  {
+    "id": "oslo",
+    "en": "Oslo",
+    "zh": "奥斯陆",
+    "countryEn": "Norway",
+    "countryZh": "挪威",
+    "zone": "Europe/Oslo",
+    "popular": false
+  },
+  {
+    "id": "ouagadougou",
+    "en": "Ouagadougou",
+    "zh": "瓦加杜古",
+    "countryEn": "Burkina Faso",
+    "countryZh": "布基纳法索",
+    "zone": "Africa/Ouagadougou",
+    "popular": false
+  },
+  {
+    "id": "pago-pago",
+    "en": "Pago Pago",
+    "zh": "帕果帕果",
+    "countryEn": "American Samoa",
+    "countryZh": "美属萨摩亚",
+    "zone": "Pacific/Pago_Pago",
+    "popular": false
+  },
+  {
+    "id": "panama-city",
+    "en": "Panama City",
+    "zh": "巴拿马城",
+    "countryEn": "Panama",
+    "countryZh": "巴拿马",
+    "zone": "America/Panama",
+    "popular": false
+  },
+  {
+    "id": "papeete",
+    "en": "Papeete",
+    "zh": "帕皮提",
+    "countryEn": "French Polynesia",
+    "countryZh": "法属波利尼西亚",
+    "zone": "Pacific/Tahiti",
+    "popular": false
+  },
+  {
+    "id": "paramaribo",
+    "en": "Paramaribo",
+    "zh": "帕拉马里博",
+    "countryEn": "Suriname",
+    "countryZh": "苏里南",
+    "zone": "America/Paramaribo",
+    "popular": false
+  },
+  {
+    "id": "paris",
+    "en": "Paris",
+    "zh": "巴黎",
+    "countryEn": "France",
+    "countryZh": "法国",
+    "zone": "Europe/Paris",
+    "popular": true
+  },
+  {
+    "id": "perth",
+    "en": "Perth",
+    "zh": "珀斯",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Perth",
+    "popular": false
+  },
+  {
+    "id": "petropavlovsk-kamchatsky",
+    "en": "Petropavlovsk-Kamchatsky",
+    "zh": "彼得罗巴甫洛夫斯克",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Kamchatka",
+    "popular": false
+  },
+  {
+    "id": "phnom-penh",
+    "en": "Phnom Penh",
+    "zh": "金边",
+    "countryEn": "Cambodia",
+    "countryZh": "柬埔寨",
+    "zone": "Asia/Phnom_Penh",
+    "popular": false
+  },
+  {
+    "id": "phoenix",
+    "en": "Phoenix",
+    "zh": "凤凰城",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Phoenix",
+    "popular": false
+  },
+  {
+    "id": "podgorica",
+    "en": "Podgorica",
+    "zh": "波德戈里察",
+    "countryEn": "Montenegro",
+    "countryZh": "黑山",
+    "zone": "Europe/Podgorica",
+    "popular": false
+  },
+  {
+    "id": "ponta-delgada",
+    "en": "Ponta Delgada",
+    "zh": "蓬塔德尔加达",
+    "countryEn": "Portugal",
+    "countryZh": "葡萄牙",
+    "zone": "Atlantic/Azores",
+    "popular": false
+  },
+  {
+    "id": "pontianak",
+    "en": "Pontianak",
+    "zh": "坤甸",
+    "countryEn": "Indonesia",
+    "countryZh": "印度尼西亚",
+    "zone": "Asia/Pontianak",
+    "popular": false
+  },
+  {
+    "id": "port-louis",
+    "en": "Port Louis",
+    "zh": "路易港",
+    "countryEn": "Mauritius",
+    "countryZh": "毛里求斯",
+    "zone": "Indian/Mauritius",
+    "popular": false
+  },
+  {
+    "id": "port-moresby",
+    "en": "Port Moresby",
+    "zh": "莫尔兹比港",
+    "countryEn": "Papua New Guinea",
+    "countryZh": "巴布亚新几内亚",
+    "zone": "Pacific/Port_Moresby",
+    "popular": false
+  },
+  {
+    "id": "port-vila",
+    "en": "Port Vila",
+    "zh": "维拉港",
+    "countryEn": "Vanuatu",
+    "countryZh": "瓦努阿图",
+    "zone": "Pacific/Efate",
+    "popular": false
+  },
+  {
+    "id": "port-au-prince",
+    "en": "Port-au-Prince",
+    "zh": "太子港",
+    "countryEn": "Haiti",
+    "countryZh": "海地",
+    "zone": "America/Port-au-Prince",
+    "popular": false
+  },
+  {
+    "id": "porto",
+    "en": "Porto",
+    "zh": "波尔图",
+    "countryEn": "Portugal",
+    "countryZh": "葡萄牙",
+    "zone": "Europe/Lisbon",
+    "popular": false
+  },
+  {
+    "id": "porto-novo",
+    "en": "Porto-Novo",
+    "zh": "波多诺伏",
+    "countryEn": "Benin",
+    "countryZh": "贝宁",
+    "zone": "Africa/Porto-Novo",
+    "popular": false
+  },
+  {
+    "id": "prague",
+    "en": "Prague",
+    "zh": "布拉格",
+    "countryEn": "Czechia",
+    "countryZh": "捷克",
+    "zone": "Europe/Prague",
+    "popular": false
+  },
+  {
+    "id": "praia",
+    "en": "Praia",
+    "zh": "普拉亚",
+    "countryEn": "Cape Verde",
+    "countryZh": "佛得角",
+    "zone": "Atlantic/Cape_Verde",
+    "popular": false
+  },
+  {
+    "id": "punta-arenas",
+    "en": "Punta Arenas",
+    "zh": "蓬塔阿雷纳斯",
+    "countryEn": "Chile",
+    "countryZh": "智利",
+    "zone": "America/Punta_Arenas",
+    "popular": false
+  },
+  {
+    "id": "pyongyang",
+    "en": "Pyongyang",
+    "zh": "平壤",
+    "countryEn": "North Korea",
+    "countryZh": "朝鲜",
+    "zone": "Asia/Pyongyang",
+    "popular": false
+  },
+  {
+    "id": "quito",
+    "en": "Quito",
+    "zh": "基多",
+    "countryEn": "Ecuador",
+    "countryZh": "厄瓜多尔",
+    "zone": "America/Guayaquil",
+    "popular": false
+  },
+  {
+    "id": "recife",
+    "en": "Recife",
+    "zh": "累西腓",
+    "countryEn": "Brazil",
+    "countryZh": "巴西",
+    "zone": "America/Recife",
+    "popular": false
+  },
+  {
+    "id": "reykjavik",
+    "en": "Reykjavik",
+    "zh": "雷克雅未克",
+    "countryEn": "Iceland",
+    "countryZh": "冰岛",
+    "zone": "Atlantic/Reykjavik",
+    "popular": false
+  },
+  {
+    "id": "riga",
+    "en": "Riga",
+    "zh": "里加",
+    "countryEn": "Latvia",
+    "countryZh": "拉脱维亚",
+    "zone": "Europe/Riga",
+    "popular": false
+  },
+  {
+    "id": "rio-de-janeiro",
+    "en": "Rio de Janeiro",
+    "zh": "里约热内卢",
+    "countryEn": "Brazil",
+    "countryZh": "巴西",
+    "zone": "America/Sao_Paulo",
+    "popular": false
+  },
+  {
+    "id": "riyadh",
+    "en": "Riyadh",
+    "zh": "利雅得",
+    "countryEn": "Saudi Arabia",
+    "countryZh": "沙特阿拉伯",
+    "zone": "Asia/Riyadh",
+    "popular": false
+  },
+  {
+    "id": "rome",
+    "en": "Rome",
+    "zh": "罗马",
+    "countryEn": "Italy",
+    "countryZh": "意大利",
+    "zone": "Europe/Rome",
+    "popular": false
+  },
+  {
+    "id": "saint-petersburg",
+    "en": "Saint Petersburg",
+    "zh": "圣彼得堡",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Europe/Moscow",
+    "popular": false
+  },
+  {
+    "id": "saint-denis",
+    "en": "Saint-Denis",
+    "zh": "圣但尼",
+    "countryEn": "Reunion",
+    "countryZh": "留尼汪",
+    "zone": "Indian/Reunion",
+    "popular": false
+  },
+  {
+    "id": "samarkand",
+    "en": "Samarkand",
+    "zh": "撒马尔罕",
+    "countryEn": "Uzbekistan",
+    "countryZh": "乌兹别克斯坦",
+    "zone": "Asia/Samarkand",
+    "popular": false
+  },
+  {
+    "id": "san-francisco",
+    "en": "San Francisco",
+    "zh": "旧金山",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Los_Angeles",
+    "popular": true
+  },
+  {
+    "id": "san-jose",
+    "en": "San Jose",
+    "zh": "圣何塞",
+    "countryEn": "Costa Rica",
+    "countryZh": "哥斯达黎加",
+    "zone": "America/Costa_Rica",
+    "popular": false
+  },
+  {
+    "id": "san-juan",
+    "en": "San Juan",
+    "zh": "圣胡安",
+    "countryEn": "Puerto Rico",
+    "countryZh": "波多黎各",
+    "zone": "America/Puerto_Rico",
+    "popular": false
+  },
+  {
+    "id": "san-marino",
+    "en": "San Marino",
+    "zh": "圣马力诺",
+    "countryEn": "San Marino",
+    "countryZh": "圣马力诺",
+    "zone": "Europe/San_Marino",
+    "popular": false
+  },
+  {
+    "id": "san-salvador",
+    "en": "San Salvador",
+    "zh": "圣萨尔瓦多",
+    "countryEn": "El Salvador",
+    "countryZh": "萨尔瓦多",
+    "zone": "America/El_Salvador",
+    "popular": false
+  },
+  {
+    "id": "sanaa",
+    "en": "Sanaa",
+    "zh": "萨那",
+    "countryEn": "Yemen",
+    "countryZh": "也门",
+    "zone": "Asia/Aden",
+    "popular": false
+  },
+  {
+    "id": "santiago",
+    "en": "Santiago",
+    "zh": "圣地亚哥",
+    "countryEn": "Chile",
+    "countryZh": "智利",
+    "zone": "America/Santiago",
+    "popular": false
+  },
+  {
+    "id": "santo-domingo",
+    "en": "Santo Domingo",
+    "zh": "圣多明各",
+    "countryEn": "Dominican Republic",
+    "countryZh": "多米尼加",
+    "zone": "America/Santo_Domingo",
+    "popular": false
+  },
+  {
+    "id": "sao-paulo",
+    "en": "Sao Paulo",
+    "zh": "圣保罗",
+    "countryEn": "Brazil",
+    "countryZh": "巴西",
+    "zone": "America/Sao_Paulo",
+    "popular": false
+  },
+  {
+    "id": "sao-tome",
+    "en": "Sao Tome",
+    "zh": "圣多美",
+    "countryEn": "Sao Tome and Principe",
+    "countryZh": "圣多美和普林西比",
+    "zone": "Africa/Sao_Tome",
+    "popular": false
+  },
+  {
+    "id": "sarajevo",
+    "en": "Sarajevo",
+    "zh": "萨拉热窝",
+    "countryEn": "Bosnia and Herzegovina",
+    "countryZh": "波黑",
+    "zone": "Europe/Sarajevo",
+    "popular": false
+  },
+  {
+    "id": "seattle",
+    "en": "Seattle",
+    "zh": "西雅图",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/Los_Angeles",
+    "popular": false
+  },
+  {
+    "id": "seoul",
+    "en": "Seoul",
+    "zh": "首尔",
+    "countryEn": "South Korea",
+    "countryZh": "韩国",
+    "zone": "Asia/Seoul",
+    "popular": true
+  },
+  {
+    "id": "shanghai",
+    "en": "Shanghai",
+    "zh": "上海",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Shanghai",
+    "popular": true
+  },
+  {
+    "id": "shenzhen",
+    "en": "Shenzhen",
+    "zh": "深圳",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Shanghai",
+    "popular": false
+  },
+  {
+    "id": "singapore",
+    "en": "Singapore",
+    "zh": "新加坡",
+    "countryEn": "Singapore",
+    "countryZh": "新加坡",
+    "zone": "Asia/Singapore",
+    "popular": true
+  },
+  {
+    "id": "skopje",
+    "en": "Skopje",
+    "zh": "斯科普里",
+    "countryEn": "North Macedonia",
+    "countryZh": "北马其顿",
+    "zone": "Europe/Skopje",
+    "popular": false
+  },
+  {
+    "id": "sofia",
+    "en": "Sofia",
+    "zh": "索非亚",
+    "countryEn": "Bulgaria",
+    "countryZh": "保加利亚",
+    "zone": "Europe/Sofia",
+    "popular": false
+  },
+  {
+    "id": "st-johns",
+    "en": "St. John's",
+    "zh": "圣约翰斯",
+    "countryEn": "Canada",
+    "countryZh": "加拿大",
+    "zone": "America/St_Johns",
+    "popular": false
+  },
+  {
+    "id": "stanley",
+    "en": "Stanley",
+    "zh": "斯坦利",
+    "countryEn": "Falkland Islands",
+    "countryZh": "福克兰群岛",
+    "zone": "Atlantic/Stanley",
+    "popular": false
+  },
+  {
+    "id": "stockholm",
+    "en": "Stockholm",
+    "zh": "斯德哥尔摩",
+    "countryEn": "Sweden",
+    "countryZh": "瑞典",
+    "zone": "Europe/Stockholm",
+    "popular": false
+  },
+  {
+    "id": "suva",
+    "en": "Suva",
+    "zh": "苏瓦",
+    "countryEn": "Fiji",
+    "countryZh": "斐济",
+    "zone": "Pacific/Fiji",
+    "popular": false
+  },
+  {
+    "id": "sydney",
+    "en": "Sydney",
+    "zh": "悉尼",
+    "countryEn": "Australia",
+    "countryZh": "澳大利亚",
+    "zone": "Australia/Sydney",
+    "popular": true
+  },
+  {
+    "id": "taipei",
+    "en": "Taipei",
+    "zh": "台北",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Taipei",
+    "popular": false
+  },
+  {
+    "id": "tallinn",
+    "en": "Tallinn",
+    "zh": "塔林",
+    "countryEn": "Estonia",
+    "countryZh": "爱沙尼亚",
+    "zone": "Europe/Tallinn",
+    "popular": false
+  },
+  {
+    "id": "tarawa",
+    "en": "Tarawa",
+    "zh": "塔拉瓦",
+    "countryEn": "Kiribati",
+    "countryZh": "基里巴斯",
+    "zone": "Pacific/Tarawa",
+    "popular": false
+  },
+  {
+    "id": "tashkent",
+    "en": "Tashkent",
+    "zh": "塔什干",
+    "countryEn": "Uzbekistan",
+    "countryZh": "乌兹别克斯坦",
+    "zone": "Asia/Tashkent",
+    "popular": false
+  },
+  {
+    "id": "tbilisi",
+    "en": "Tbilisi",
+    "zh": "第比利斯",
+    "countryEn": "Georgia",
+    "countryZh": "格鲁吉亚",
+    "zone": "Asia/Tbilisi",
+    "popular": false
+  },
+  {
+    "id": "tegucigalpa",
+    "en": "Tegucigalpa",
+    "zh": "特古西加尔巴",
+    "countryEn": "Honduras",
+    "countryZh": "洪都拉斯",
+    "zone": "America/Tegucigalpa",
+    "popular": false
+  },
+  {
+    "id": "tehran",
+    "en": "Tehran",
+    "zh": "德黑兰",
+    "countryEn": "Iran",
+    "countryZh": "伊朗",
+    "zone": "Asia/Tehran",
+    "popular": false
+  },
+  {
+    "id": "thimphu",
+    "en": "Thimphu",
+    "zh": "廷布",
+    "countryEn": "Bhutan",
+    "countryZh": "不丹",
+    "zone": "Asia/Thimphu",
+    "popular": false
+  },
+  {
+    "id": "tijuana",
+    "en": "Tijuana",
+    "zh": "蒂华纳",
+    "countryEn": "Mexico",
+    "countryZh": "墨西哥",
+    "zone": "America/Tijuana",
+    "popular": false
+  },
+  {
+    "id": "tirana",
+    "en": "Tirana",
+    "zh": "地拉那",
+    "countryEn": "Albania",
+    "countryZh": "阿尔巴尼亚",
+    "zone": "Europe/Tirane",
+    "popular": false
+  },
+  {
+    "id": "tokyo",
+    "en": "Tokyo",
+    "zh": "东京",
+    "countryEn": "Japan",
+    "countryZh": "日本",
+    "zone": "Asia/Tokyo",
+    "popular": true
+  },
+  {
+    "id": "toronto",
+    "en": "Toronto",
+    "zh": "多伦多",
+    "countryEn": "Canada",
+    "countryZh": "加拿大",
+    "zone": "America/Toronto",
+    "popular": false
+  },
+  {
+    "id": "torshavn",
+    "en": "Torshavn",
+    "zh": "托尔斯港",
+    "countryEn": "Faroe Islands",
+    "countryZh": "法罗群岛",
+    "zone": "Atlantic/Faroe",
+    "popular": false
+  },
+  {
+    "id": "tripoli",
+    "en": "Tripoli",
+    "zh": "的黎波里",
+    "countryEn": "Libya",
+    "countryZh": "利比亚",
+    "zone": "Africa/Tripoli",
+    "popular": false
+  },
+  {
+    "id": "tunis",
+    "en": "Tunis",
+    "zh": "突尼斯",
+    "countryEn": "Tunisia",
+    "countryZh": "突尼斯",
+    "zone": "Africa/Tunis",
+    "popular": false
+  },
+  {
+    "id": "ulaanbaatar",
+    "en": "Ulaanbaatar",
+    "zh": "乌兰巴托",
+    "countryEn": "Mongolia",
+    "countryZh": "蒙古",
+    "zone": "Asia/Ulaanbaatar",
+    "popular": false
+  },
+  {
+    "id": "urumqi",
+    "en": "Urumqi",
+    "zh": "乌鲁木齐",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Urumqi",
+    "popular": false
+  },
+  {
+    "id": "ushuaia",
+    "en": "Ushuaia",
+    "zh": "乌斯怀亚",
+    "countryEn": "Argentina",
+    "countryZh": "阿根廷",
+    "zone": "America/Argentina/Ushuaia",
+    "popular": false
+  },
+  {
+    "id": "valletta",
+    "en": "Valletta",
+    "zh": "瓦莱塔",
+    "countryEn": "Malta",
+    "countryZh": "马耳他",
+    "zone": "Europe/Malta",
+    "popular": false
+  },
+  {
+    "id": "vancouver",
+    "en": "Vancouver",
+    "zh": "温哥华",
+    "countryEn": "Canada",
+    "countryZh": "加拿大",
+    "zone": "America/Vancouver",
+    "popular": false
+  },
+  {
+    "id": "victoria",
+    "en": "Victoria",
+    "zh": "维多利亚",
+    "countryEn": "Seychelles",
+    "countryZh": "塞舌尔",
+    "zone": "Indian/Mahe",
+    "popular": false
+  },
+  {
+    "id": "vienna",
+    "en": "Vienna",
+    "zh": "维也纳",
+    "countryEn": "Austria",
+    "countryZh": "奥地利",
+    "zone": "Europe/Vienna",
+    "popular": false
+  },
+  {
+    "id": "vientiane",
+    "en": "Vientiane",
+    "zh": "万象",
+    "countryEn": "Laos",
+    "countryZh": "老挝",
+    "zone": "Asia/Vientiane",
+    "popular": false
+  },
+  {
+    "id": "vilnius",
+    "en": "Vilnius",
+    "zh": "维尔纽斯",
+    "countryEn": "Lithuania",
+    "countryZh": "立陶宛",
+    "zone": "Europe/Vilnius",
+    "popular": false
+  },
+  {
+    "id": "vladivostok",
+    "en": "Vladivostok",
+    "zh": "符拉迪沃斯托克",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Vladivostok",
+    "popular": false
+  },
+  {
+    "id": "warsaw",
+    "en": "Warsaw",
+    "zh": "华沙",
+    "countryEn": "Poland",
+    "countryZh": "波兰",
+    "zone": "Europe/Warsaw",
+    "popular": false
+  },
+  {
+    "id": "washington",
+    "en": "Washington",
+    "zh": "华盛顿",
+    "countryEn": "United States",
+    "countryZh": "美国",
+    "zone": "America/New_York",
+    "popular": false
+  },
+  {
+    "id": "wellington",
+    "en": "Wellington",
+    "zh": "惠灵顿",
+    "countryEn": "New Zealand",
+    "countryZh": "新西兰",
+    "zone": "Pacific/Auckland",
+    "popular": false
+  },
+  {
+    "id": "windhoek",
+    "en": "Windhoek",
+    "zh": "温得和克",
+    "countryEn": "Namibia",
+    "countryZh": "纳米比亚",
+    "zone": "Africa/Windhoek",
+    "popular": false
+  },
+  {
+    "id": "winnipeg",
+    "en": "Winnipeg",
+    "zh": "温尼伯",
+    "countryEn": "Canada",
+    "countryZh": "加拿大",
+    "zone": "America/Winnipeg",
+    "popular": false
+  },
+  {
+    "id": "xian",
+    "en": "Xi'an",
+    "zh": "西安",
+    "countryEn": "China",
+    "countryZh": "中国",
+    "zone": "Asia/Shanghai",
+    "popular": false
+  },
+  {
+    "id": "yakutsk",
+    "en": "Yakutsk",
+    "zh": "雅库茨克",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Yakutsk",
+    "popular": false
+  },
+  {
+    "id": "yangon",
+    "en": "Yangon",
+    "zh": "仰光",
+    "countryEn": "Myanmar",
+    "countryZh": "缅甸",
+    "zone": "Asia/Yangon",
+    "popular": false
+  },
+  {
+    "id": "yaren",
+    "en": "Yaren",
+    "zh": "亚伦",
+    "countryEn": "Nauru",
+    "countryZh": "瑙鲁",
+    "zone": "Pacific/Nauru",
+    "popular": false
+  },
+  {
+    "id": "yekaterinburg",
+    "en": "Yekaterinburg",
+    "zh": "叶卡捷琳堡",
+    "countryEn": "Russia",
+    "countryZh": "俄罗斯",
+    "zone": "Asia/Yekaterinburg",
+    "popular": false
+  },
+  {
+    "id": "yerevan",
+    "en": "Yerevan",
+    "zh": "埃里温",
+    "countryEn": "Armenia",
+    "countryZh": "亚美尼亚",
+    "zone": "Asia/Yerevan",
+    "popular": false
+  },
+  {
+    "id": "zagreb",
+    "en": "Zagreb",
+    "zh": "萨格勒布",
+    "countryEn": "Croatia",
+    "countryZh": "克罗地亚",
+    "zone": "Europe/Zagreb",
+    "popular": false
+  },
+  {
+    "id": "zurich",
+    "en": "Zurich",
+    "zh": "苏黎世",
+    "countryEn": "Switzerland",
+    "countryZh": "瑞士",
+    "zone": "Europe/Zurich",
+    "popular": false
+  }
+]

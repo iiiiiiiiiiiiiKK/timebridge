@@ -1,0 +1,61 @@
+{
+  "name": "timebridge",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "TimeBridge — a global timezone workspace: world clock, hour-by-hour comparison grid, meeting finder, converter and shareable meetup links. Runs 100% in your browser.",
+  "license": "MIT",
+  "author": {
+    "name": "0xkillcoin",
+    "url": "https://x.com/0xkillcoin"
+  },
+  "homepage": "https://iiiiiiiiiiiiiKK.github.io/timebridge/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiiiiiiiiiiiiKK/timebridge.git"
+  },
+  "keywords": [
+    "timezone",
+    "world-clock",
+    "meeting-planner",
+    "remote-work",
+    "dst",
+    "iana",
+    "react",
+    "typescript",
+    "tailwindcss"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "typecheck": "tsc -b --pretty false",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "test:e2e:install": "playwright install chromium",
+    "shots": "node scripts/screenshots.mjs",
+    "audit:ui": "node scripts/audit-ui.mjs",
+    "verify:cities": "node scripts/verify-cities.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^1.65.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}

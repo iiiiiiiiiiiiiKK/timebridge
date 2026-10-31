@@ -1,0 +1,206 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  color-scheme: light;
+  --tb-bg: #f5f6f8;
+  --tb-panel: #ffffff;
+  --tb-panel-soft: #fafbfc;
+  --tb-elevated: #ffffff;
+  --tb-line: #e3e6ec;
+  --tb-line-strong: #cfd5df;
+  --tb-ink: #101319;
+  --tb-ink-soft: #333a46;
+  --tb-muted: #667085;
+  --tb-accent: #4f46e5;
+  --tb-accent-ink: #ffffff;
+  --tb-accent-soft: rgba(79, 70, 229, 0.1);
+  --tb-work: #0f9d63;
+  --tb-shoulder: #b7791f;
+  --tb-night: #4c5a75;
+  --tb-weekend: #8b5cf6;
+  --tb-danger: #dc2626;
+  --tb-shadow: 0 1px 2px rgba(16, 19, 25, 0.06), 0 8px 24px -12px rgba(16, 19, 25, 0.18);
+  --tb-shadow-pop: 0 24px 60px -24px rgba(16, 19, 25, 0.35), 0 2px 8px rgba(16, 19, 25, 0.08);
+}
+
+.dark {
+  color-scheme: dark;
+  --tb-bg: #08090c;
+  --tb-panel: #0f1116;
+  --tb-panel-soft: #12141a;
+  --tb-elevated: #171a21;
+  --tb-line: #23262f;
+  --tb-line-strong: #313542;
+  --tb-ink: #eceef3;
+  --tb-ink-soft: #c2c7d4;
+  --tb-muted: #868d9e;
+  --tb-accent: #8b8bff;
+  --tb-accent-ink: #0b0c10;
+  --tb-accent-soft: rgba(139, 139, 255, 0.14);
+  --tb-work: #3ddc97;
+  --tb-shoulder: #e8b04b;
+  --tb-night: #7f8ba8;
+  --tb-weekend: #b18bff;
+  --tb-danger: #f87171;
+  --tb-shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 12px 32px -18px rgba(0, 0, 0, 0.7);
+  --tb-shadow-pop: 0 30px 80px -30px rgba(0, 0, 0, 0.85), 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+@theme inline {
+  --color-bg: var(--tb-bg);
+  --color-panel: var(--tb-panel);
+  --color-panel-soft: var(--tb-panel-soft);
+  --color-elevated: var(--tb-elevated);
+  --color-line: var(--tb-line);
+  --color-line-strong: var(--tb-line-strong);
+  --color-ink: var(--tb-ink);
+  --color-ink-soft: var(--tb-ink-soft);
+  --color-muted: var(--tb-muted);
+  --color-accent: var(--tb-accent);
+  --color-accent-ink: var(--tb-accent-ink);
+  --color-accent-soft: var(--tb-accent-soft);
+  --color-work: var(--tb-work);
+  --color-shoulder: var(--tb-shoulder);
+  --color-night: var(--tb-night);
+  --color-weekend: var(--tb-weekend);
+  --color-danger: var(--tb-danger);
+  --font-sans:
+    'Inter var', 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'PingFang SC',
+    'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+  --font-mono:
+    ui-monospace, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas,
+    monospace;
+}
+
+@layer base {
+  * {
+    border-color: var(--tb-line);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--tb-bg);
+    color: var(--tb-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: 'cv11', 'ss01';
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background: var(--tb-accent);
+    color: var(--tb-accent-ink);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--tb-accent);
+    outline-offset: 2px;
+  }
+
+  input[type='date'],
+  input[type='time'] {
+    color-scheme: inherit;
+  }
+}
+
+/* ---- Reusable surfaces ------------------------------------------------- */
+
+.tb-card {
+  background-color: var(--tb-panel);
+  border: 1px solid var(--tb-line);
+  border-radius: 1rem;
+  box-shadow: var(--tb-shadow);
+}
+
+.tb-inset {
+  background-color: var(--tb-panel-soft);
+  border: 1px solid var(--tb-line);
+  border-radius: 0.75rem;
+}
+
+.tb-time {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum';
+  letter-spacing: -0.03em;
+}
+
+/* Quality bands used by the comparison grid. */
+.tb-cell-work {
+  background-color: color-mix(in oklab, var(--tb-work) 15%, transparent);
+  color: color-mix(in oklab, var(--tb-work) 82%, var(--tb-ink));
+}
+.dark .tb-cell-work {
+  background-color: color-mix(in oklab, var(--tb-work) 13%, transparent);
+  color: var(--tb-work);
+}
+.tb-cell-shoulder {
+  background-color: color-mix(in oklab, var(--tb-shoulder) 16%, transparent);
+  color: color-mix(in oklab, var(--tb-shoulder) 70%, var(--tb-ink));
+}
+.dark .tb-cell-shoulder {
+  background-color: color-mix(in oklab, var(--tb-shoulder) 14%, transparent);
+  color: var(--tb-shoulder);
+}
+.tb-cell-night {
+  background-color: color-mix(in oklab, var(--tb-night) 12%, transparent);
+  color: var(--tb-muted);
+}
+.tb-cell-weekend {
+  background-color: color-mix(in oklab, var(--tb-weekend) 14%, transparent);
+  color: color-mix(in oklab, var(--tb-weekend) 70%, var(--tb-ink));
+}
+.dark .tb-cell-weekend {
+  background-color: color-mix(in oklab, var(--tb-weekend) 13%, transparent);
+  color: var(--tb-weekend);
+}
+
+/* Horizontal scroller with slim scrollbars. */
+.tb-scroll {
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--tb-line-strong) transparent;
+  -webkit-overflow-scrolling: touch;
+}
+.tb-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+.tb-scroll::-webkit-scrollbar-thumb {
+  background: var(--tb-line-strong);
+  border-radius: 999px;
+}
+.tb-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.tb-fade-right {
+  mask-image: linear-gradient(to right, black calc(100% - 24px), transparent);
+}
+
+/* Subtle grid backdrop for the hero */
+.tb-hero-bg {
+  background-image:
+    radial-gradient(120% 120% at 12% 0%, color-mix(in oklab, var(--tb-accent) 12%, transparent) 0%, transparent 55%),
+    radial-gradient(100% 100% at 92% 8%, color-mix(in oklab, var(--tb-work) 9%, transparent) 0%, transparent 50%);
+}
+
+.tb-range {
+  accent-color: var(--tb-accent);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
