@@ -20,7 +20,11 @@ export default defineConfig({
   },
   projects: [
     { name: 'desktop', use: { ...devices['Desktop Chrome'], viewport: { width: 1366, height: 900 } } },
-    { name: 'mobile', use: { ...devices['iPhone 13'] } },
+    {
+      name: 'mobile',
+      // iPhone 13 metrics, rendered in Chromium so CI only needs one browser.
+      use: { ...devices['iPhone 13'], browserName: 'chromium' },
+    },
   ],
   webServer: {
     command: 'npm run preview',
