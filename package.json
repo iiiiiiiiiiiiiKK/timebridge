@@ -39,7 +39,8 @@
     "test:e2e:install": "playwright install chromium",
     "shots": "node scripts/screenshots.mjs",
     "audit:ui": "node scripts/audit-ui.mjs",
-    "verify:cities": "node scripts/verify-cities.mjs"
+    "verify:cities": "node scripts/verify-cities.mjs",
+    "verify:live": "node scripts/verify-live.mjs"
   },
   "dependencies": {
     "lucide-react": "^1.65.0",

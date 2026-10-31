@@ -41,18 +41,24 @@ record(
 const xLink = await page.locator('header').getByTestId('author-x-link').getAttribute('href');
 record('header 𝕏 link points at the author', xLink === 'https://x.com/0xkillcoin', String(xLink));
 
-// Add a city through the real search flow.
-await page.getByTestId('header-add-city').click();
-await page.getByTestId('city-search-input').fill('tokyo');
-await page.getByTestId('city-result-tokyo').click();
-await page.getByRole('button', { name: '关闭' }).click();
+// Add cities through the real search flow.
+for (const [query, id] of [
+  ['tokyo', 'tokyo'],
+  ['london', 'london'],
+]) {
+  await page.getByTestId('header-add-city').click();
+  await page.getByTestId('city-search-input').fill(query);
+  await page.getByTestId(`city-result-${id}`).click();
+  await page.getByRole('button', { name: '关闭' }).click();
+  await page.waitForTimeout(150);
+}
 await page.getByTestId('city-card').first().waitFor();
-record('city added from search', (await page.getByTestId('city-card').count()) === 1);
+record('cities added from search', (await page.getByTestId('city-card').count()) === 2);
 
 await page.reload({ waitUntil: 'networkidle' });
 record(
-  'city persisted after reload (localStorage)',
-  (await page.getByTestId('city-card').count()) === 1,
+  'cities persisted after reload (localStorage)',
+  (await page.getByTestId('city-card').count()) === 2,
 );
 
 // Every view must render.
@@ -64,7 +70,7 @@ for (const view of views) {
   record(`view "${view}" renders`, heading.length > 0, heading);
 }
 
-// Converter: 2026-11-02 15:00 Tokyo must be 07:00 London (GMT, after DST ended).
+// Converter: 2026-11-02 15:00 in Tokyo (UTC+9) = 06:00 UTC = 06:00 in London (GMT).
 await page.getByTestId('nav-converter').click();
 await page.getByTestId('converter-date').fill('2026-11-02');
 await page.getByTestId('converter-time').fill('15:00');
@@ -73,7 +79,7 @@ const londonRow = await page.getByTestId('converter-row-london').innerText().cat
 record('converter keeps the source time', tokyoRow.includes('15:00'), tokyoRow.replace(/\s+/g, ' '));
 record(
   'converter applies the real timezone offset',
-  londonRow.length === 0 || londonRow.includes('07:00'),
+  londonRow.includes('06:00'),
   londonRow.replace(/\s+/g, ' '),
 );
 

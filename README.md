@@ -107,6 +107,7 @@ npm test              # Vitest unit + integration suite
 npm run verify:cities # dataset integrity (valid IANA zones, unique ids)
 npm run test:e2e      # Playwright: desktop (1366×900) + iPhone 13
 npm run audit:ui      # layout / a11y / contrast audit across 3 viewports
+npm run verify:live   # production smoke test against the deployed URL
 npm run shots         # regenerate docs/screenshots from the live build
 ```
 
@@ -118,8 +119,9 @@ Verified results at the time of writing:
 | Vitest | **68 / 68 pass** | conversions (Tokyo↔New York, Shanghai↔London), cross-day/cross-year, leap day, US & EU DST transitions, non-existent and ambiguous wall-clock times, half-hour offsets, meeting-window intersection, “no common working hours” case, share encode/decode/tamper handling, corrupted-localStorage recovery, dataset integrity, Chinese/English search |
 | Playwright | **23 / 23 pass** (1 skipped: mobile-only assertion on desktop) | first paint, author 𝕏 link, add/reorder/persist/remove cities, search, 12/24-hour switch, language + theme switching with reload persistence, comparison grid + cell inspection, meeting finder, converter (fixed 2026-11-02 15:00 → London 06:00), share-link round-trip and import, corrupt-storage recovery, no horizontal overflow on mobile |
 | `audit:ui` | **0 errors, 0 warnings** | 390 / 834 / 1440 px viewports × 5 views: no page overflow, no unlabelled controls, no tap targets < 28px, no low-contrast text, no console errors |
+| `verify:live` | **19 / 19 pass** | the deployed GitHub Pages URL in a real browser: HTTP 200, live clock, local-zone detection, author 𝕏 link, add/persist cities, all five views, converter (`2026-11-02 15:00` Tokyo → `06:00` London), share-link round-trip, 390 px overflow check, zero console errors, zero failed requests |
 
-Run the same checks in CI: every push to `main` runs `.github/workflows/ci.yml` (typecheck → unit tests → dataset validation → build → Playwright).
+Run the same checks in CI: every push to `main` runs `.github/workflows/ci.yml` (typecheck → unit tests → dataset validation → build → Playwright) and `.github/workflows/deploy-pages.yml` publishes the result.
 
 ---
 
