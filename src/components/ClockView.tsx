@@ -41,6 +41,7 @@ export function ClockView({ onOpenAddCity }: { onOpenAddCity: () => void }) {
 
   return (
     <div className="space-y-6">
+      <h1 className="sr-only">{t('clock.title')}</h1>
       <section className="tb-card tb-hero-bg relative overflow-hidden p-5 sm:p-7">
         <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
           <div className="min-w-0">
